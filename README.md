@@ -48,8 +48,8 @@ Python and statistical techniques.
 - Developed production-ready tools exposing structural fleet data, active route analytics, and operator status.
 - Designed system metrics tracking real-time network congestion monitoring.
 
-#### 🔄 [Python-to-C Transpiler](https://github.com/andresquesadag/TransPYler)
-*A robust source-to-source compiler architecture converting Python script execution into optimized native C structures.*
+#### 🔄 [Python-to-C++ Transpiler](https://github.com/andresquesadag/TransPYler)
+*A robust source-to-source compiler architecture converting Python script execution into optimized native C++ structures.*
 - Implemented core abstract syntax structures mapping language control flows, modular functions, and expressions using compiler theory.
 
 ---
