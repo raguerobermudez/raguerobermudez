@@ -41,6 +41,12 @@ Computer Science graduate from the University of Costa Rica with practical exper
 - Engineered the **Learning Components** module, implementing business logic and data persistence (Entity Framework Core, LINQ, and SQL Server) following **Clean Architecture** and **SOLID principles** within an Agile (Scrum) workflow.
 - Designed and executed **unit and integration tests** to ensure software quality, defect tracking, and requirement compliance.
 - Built and integrated administrative web portal views using **Blazor** for platform and resource management.
+  
+#### 📦 [Flexible Inventory System](https://github.com/raguerobermudez/FlexibleInventory) *(In Development)*
+*A backend system for managing flexible inventory, built with **.NET 8** and **SQL Server** using an **Entity-Attribute-Value (EAV)** relational model.*
+- Designed an EAV database schema with clear rules and constraints to support custom category attributes without adding too many tables.
+- Set up a **SQL Server 2022** Docker environment with saved data and safe startup scripts that do not erase existing records.
+- Currently building the **.NET 8** data access and backend layer to query and update dynamic item attributes.
 
 #### 📈 [Exploratory Analysis of Crime, Socioeconomic, and Demographic Indicators](https://github.com/raguerobermudez/costa-rica-crime-eda)
 *Executed a massive data analysis project processing **over 560,000 national records** by integrating public data from OIJ, INEC, and the Central Bank of Costa Rica (BCCR).*
